@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+A new Flutter project based in basic course of balta.io.
 
 ## Getting Started
 
